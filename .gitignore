@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/target
+/.idea
+/.png
+.DS_Store
+/test-output
+.classpath
+.project
+.settings
+log.out
+/build
+LogFile.txt
+AssurityAPITest.iml
+test-output.zip
